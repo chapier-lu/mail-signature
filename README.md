@@ -9,6 +9,8 @@ Pour installer la nouvelle signature mail vous devez copier le contenu du fichie
 - `{ Adresse email }`
 - `{ Numéro de téléphone }`
 
+Si c'est une signature pour un commercial il faut renseigner `{ Numéro de téléphone assistante }` et `{ Adresse email assistante }` sinon il faut supprimer la ligne de code.
+
 Pour les remplacer vous devez utiliser un éditeur de texte comme `Notepad++` ou encore l'application `Bloc notes` de Windows.
 
 :warning: Il ne faut pas utiliser Word car il se peut qu'il rajoute des caractères spéciales. :warning:
