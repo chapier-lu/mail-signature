@@ -19,6 +19,6 @@ Pour chaque client mail (Outlook, Mail Apple, Gmail, Thunderbird, etc...) la pro
 
 Voici quelques liens pour réaliser l'installation plus facilement :
 
-- [Outlook](https://blog.cellenza.com/office/comment-creer-une-signature-outlook/)
+- [Outlook](https://www.youtube.com/watch?v=AtfkdDNYbjE)
 - [Mail Apple](https://mlid.fr/apple-creer-signature-html-mail-mac/)
 - [Thunderbird](https://support.mozilla.org/fr/kb/ajouter-signature-messages)
