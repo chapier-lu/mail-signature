@@ -6,6 +6,7 @@ Pour installer la nouvelle signature mail vous devez copier le contenu du fichie
 
 - `{ Prénom Nom }`
 - `{ Fonction }`
+- `{ Adresse email }`
 - `{ Numéro de téléphone }`
 
 Pour les remplacer vous devez utiliser un éditeur de texte comme `Notepad++` ou encore l'application `Bloc notes` de Windows.
