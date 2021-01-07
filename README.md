@@ -1,8 +1,8 @@
-# Signature mail
+# Signature mail :email:
 
 ## Installation
 
-Pour installer la nouvelle signature mail vous devez copier le contenu du fichier `index.html` en prenant soin de remplacer les informations qui se trouvent entre accolade `{ }` :
+Pour installer la nouvelle signature mail vous devez copier le contenu du fichier `index.html` en prenant soin de remplacer les informations qui se trouvent entre accolades `{ }` (Vous devez supprimer les accolades une fois remplacé) :
 
 - `{ Prénom Nom }`
 - `{ Fonction }`
