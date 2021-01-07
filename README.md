@@ -1,4 +1,4 @@
-# Signature mail
+# Signature mail :email:
 
 ## Installation
 
